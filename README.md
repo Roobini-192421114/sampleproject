@@ -40,3 +40,5 @@ may be appropriate.
 This project demonstrates GitHub collaboration using fork and pull request workflow
 
 This line is added from main branch.
+
+This line is added from main branch for conflict.
