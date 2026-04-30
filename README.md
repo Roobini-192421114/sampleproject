@@ -37,8 +37,6 @@ may be appropriate.
 [rst]: http://docutils.sourceforge.net/rst.html
 [md]: https://tools.ietf.org/html/rfc7764#section-3.5 "CommonMark variant"
 [md use]: https://packaging.python.org/specifications/core-metadata/#description-content-type-optional
-This project demonstrates GitHub collaboration using fork and pull request workflow.
+This project demonstrates GitHub collaboration using fork and pull request workflow
 
-
-
-This line is added from feature branch.
+This line is added from main branch.
